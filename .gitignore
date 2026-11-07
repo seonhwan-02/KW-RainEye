@@ -1,0 +1,19 @@
+# IMERG 원자료와 캐시(저장소 밖 바탕화면/K-RainEye_IMERG에 둠)
+*.nc4
+*.HDF5
+*.h5
+cache_*.mat
+motion_*.mat
+# 실행 기록(로컬 경로가 들어감)
+run_log.csv
+run_info.txt
+# 그림 출력
+figures/figs/*
+!figures/figs/.gitkeep
+# 기타
+__pycache__/
+*.pyc
+*.asv
+~$*
+.DS_Store
+Thumbs.db

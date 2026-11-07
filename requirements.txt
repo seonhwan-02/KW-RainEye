@@ -1,0 +1,3 @@
+numpy
+matplotlib
+earthaccess  # imerg/download_imerg.py에서만 사용
